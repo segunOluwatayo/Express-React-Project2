@@ -2,7 +2,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-// Define a functional component named CountryInfo
+// Define The functional component named CountryInfo
 function CountryInfo({ info }) {
   // Destructure the first element of the info array and assign it to a variable named country
   const country = info[0];
