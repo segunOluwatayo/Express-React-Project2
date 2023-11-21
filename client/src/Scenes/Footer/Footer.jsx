@@ -1,4 +1,4 @@
-// Footer component that displays copyright information and social icons
+// Footer component that displays information and social icons
 const Footer = () => {
   return (
     <div className="footer">
