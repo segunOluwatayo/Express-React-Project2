@@ -1,30 +1,4 @@
-1. Country Info App 🌎
-   A React and NodeJS web application that allows users to search for any country and get information about it, such as capital, population, currency, languages, flag, etc. The app uses the REST Countries API to fetch the data from the backend server built with NodeJS and Express.
-
-2. Installation and Usage 🛠️
-   To run the app locally, follow these steps:
-
-Clone this repository to your local machine: git clone (The git repository)
-Navigate to the project folder: cd client
-Install the dependencies for both the frontend and the backend: npm install
-Start the backend server: npm start dev
-Start the frontend app: npm start
-Open your browser and go to http://localhost:3000 to see the app in action.
-
-3. Tech Stack 💻
-   The main technologies and tools used to build this project are:
-
-React: A JavaScript library for building user interfaces.
-NodeJS: A JavaScript runtime environment that executes JavaScript code outside a web browser.
-Express: A web framework for NodeJS that provides features for web and mobile applications.
-REST Countries API: A free API that provides information about countries around the world.
-Axios: A promise-based HTTP client for the browser and NodeJS.
-CSS: This was used for developing responsive and mobile-first websites.
-Font Awesome: A library of icons and fonts for web development.
-Jest: A JavaScript testing framework for NodeJS.
-Cypress: An end-to-end testing framework for web applications.
-
-<!-- # Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -93,4 +67,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+1. Country Info App 🌎
+   A React and NodeJS web application that allows users to search for any country and get information about it, such as capital, population, currency, languages, flag, etc. The app uses the REST Countries API to fetch the data from the backend server built with NodeJS and Express.
+
+2. Installation and Usage 🛠️
+   To run the app locally, follow these steps:
+
+Clone this repository to your local machine: git clone (The git repository)
+Navigate to the project folder: cd client
+Install the dependencies for both the frontend and the backend: npm install
+Start the backend server: npm start dev
+Start the frontend app: npm start
+Open your browser and go to http://localhost:3000 to see the app in action.
+
+3. Tech Stack 💻
+   The main technologies and tools used to build this project are:
+
+React: A JavaScript library for building user interfaces.
+NodeJS: A JavaScript runtime environment that executes JavaScript code outside a web browser.
+Express: A web framework for NodeJS that provides features for web and mobile applications.
+REST Countries API: A free API that provides information about countries around the world.
+Axios: A promise-based HTTP client for the browser and NodeJS.
+CSS: This was used for developing responsive and mobile-first websites.
+Font Awesome: A library of icons and fonts for web development.
+Jest: A JavaScript testing framework for NodeJS.
+Cypress: An end-to-end testing framework for web applications.
