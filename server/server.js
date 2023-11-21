@@ -1,29 +1,3 @@
-// const express = require('express');
-// const fetch = require('node-fetch');
-// const cors = require('cors'); // require the cors module
-
-// const app = express();
-
-// // Enable CORS for all routes
-// app.use(cors());
-
-// app.get('/api/country/:name', async (req, res) => {
-//   try {
-//     const response = await fetch(`https://restcountries.com/v3/name/${req.params.name}`);
-//     const data = await response.json();
-//     res.send(data);
-//   } catch (error) {
-//     res.status(500).send(error);
-//   }
-// });
-
-// const port = 3001;
-
-// app.listen(port, () => {
-//   console.log(`Server running on http://localhost:${port}`);
-// });
-// server/index.js
-// Import Express and other packages
 const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
