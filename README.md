@@ -83,7 +83,7 @@ install the dependency of npm install react-scripts on the client folder and sho
 Clone this repository to your local machine: git clone (The git repository)
 Navigate to the project folder: cd client
 Install the dependencies for both the frontend and the backend: npm install
-Start the backend server: npm start dev
+Start the backend server: npm start dev (This does not need to be done since the backend is hosted by render)
 Start the frontend app: npm start
 Open your browser and go to http://localhost:3000 to see the app in action.
 
