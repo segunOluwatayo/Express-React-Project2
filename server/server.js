@@ -1,6 +1,7 @@
 const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
+const functions = require('firebase-functions');
 
 // Create an instance of Express
 const app = express();
@@ -30,5 +31,5 @@ app.listen(3001, () => {
   // Print a message indicating that the server is running
   console.log('Server is running on port 3001');
 });
-
+exports.api = functions.https.onRequest(app);
 
