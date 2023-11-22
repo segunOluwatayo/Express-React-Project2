@@ -7,7 +7,8 @@ import Loading from './Components/Loading';
 import Footer from './Scenes/Footer/Footer';
 
 // Define the API URL for fetching country information
-const API_URL = 'http://localhost:3001/country/';
+const API_URL = 'https://react-lq8p.onrender.com/country/';
+// http://localhost:3001/country/
 
 // Define the main component App
 const App = () => {
