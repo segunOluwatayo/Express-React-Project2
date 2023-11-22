@@ -70,9 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-If you get this error > client@0.1.0 start
-> react-scripts start 'react-scripts' is not recognized as an internal or external command, on the client or frontend when npm run
-just install the dependency of npm install react-scripts on the frontend folder and should work fine
+You will get this error > client@0.1.0 start
+> react-scripts start 'react-scripts' is not recognized as an internal or external command, on the client or frontend when npm run after you clone the repository and go to the client folder (cd client). No worries!
+install the dependency of npm install react-scripts on the client folder and should work fine
 
 1. Country Info App 🌎
    A React and NodeJS web application that allows users to search for any country and get information about it, such as capital, population, currency, languages, flag, etc. The app uses the REST Countries API to fetch the data from the backend server built with NodeJS and Express.
@@ -99,4 +99,14 @@ CSS: This was used for developing responsive and mobile-first websites.
 Font Awesome: A library of icons and fonts for web development.
 Jest: A JavaScript testing framework for NodeJS.
 Cypress: An end-to-end testing framework for web applications.
+
+4. Screenshots 📷
+Here are some screenshots of the app:
+<img width="1268" alt="Screenshot 2023-11-21 222649" src="https://github.com/segunOluwatayo/Express-React-Project2/assets/126163205/e046d10d-b88b-4818-b2a7-669156f8253f">
+
+<img width="1267" alt="Screenshot 2023-11-21 222742" src="https://github.com/segunOluwatayo/Express-React-Project2/assets/126163205/b1e1bc19-9ee7-4144-986c-3d84764b24a8">
+
+<img width="1270" alt="Screenshot 2023-11-21 222857" src="https://github.com/segunOluwatayo/Express-React-Project2/assets/126163205/8833a95e-be6d-4e52-b645-eea41a4b2179">
+
+
 
