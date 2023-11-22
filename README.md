@@ -70,6 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+If you get this error > client@0.1.0 start
+> react-scripts start 'react-scripts' is not recognized as an internal or external command, on the client or frontend when npm run
+just install the dependency of npm install react-scripts on the frontend folder and should work fine
+
 1. Country Info App 🌎
    A React and NodeJS web application that allows users to search for any country and get information about it, such as capital, population, currency, languages, flag, etc. The app uses the REST Countries API to fetch the data from the backend server built with NodeJS and Express.
 
@@ -96,8 +100,3 @@ Font Awesome: A library of icons and fonts for web development.
 Jest: A JavaScript testing framework for NodeJS.
 Cypress: An end-to-end testing framework for web applications.
 
-4. If you get this error > client@0.1.0 start
-> react-scripts start
-
-'react-scripts' is not recognized as an internal or external command,
-just install the dependency of npm install react-scripts on the frontend folder and should work fine
