@@ -95,3 +95,9 @@ CSS: This was used for developing responsive and mobile-first websites.
 Font Awesome: A library of icons and fonts for web development.
 Jest: A JavaScript testing framework for NodeJS.
 Cypress: An end-to-end testing framework for web applications.
+
+4. If you get this error > client@0.1.0 start
+> react-scripts start
+
+'react-scripts' is not recognized as an internal or external command,
+just install the dependency of npm install react-scripts on the frontend folder and should work fine
